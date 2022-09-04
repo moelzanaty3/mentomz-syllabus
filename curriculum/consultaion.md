@@ -2,7 +2,7 @@
 
 ![internship-cover](../images/consultaion-cover.png)
 
-Book a slot with me now from [here](https://www.mentomz.com/#pricing)🔥.
+Book a slot with me now from [here](https://www.mentomz.com)🔥.
 
 ## I can help with the following
 
