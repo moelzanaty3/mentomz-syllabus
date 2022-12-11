@@ -5,6 +5,7 @@
 ## Syllabus
 
 - React Workshop Content [12hrs Live Sessions every week]
+> Learn React topics from the ground up with full remotely workshop format designed for beginners and for those with a few years experience alike.
   - 01-no-frills-react
   - 02-js-tools
   - 03-jsx
