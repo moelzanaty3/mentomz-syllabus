@@ -4,6 +4,23 @@
 
 ## Syllabus
 
+- React Workshop Content [12hrs Live Sessions every week]
+  - 01-no-frills-react
+  - 02-js-tools
+  - 03-jsx
+  - 04-hooks
+  - 05-component-composition
+  - 06-react-router-dom
+  - 07-react-query
+  - 08-class-components
+  - 09-error-boundaries
+  - 10-portals-and-refs
+  - 11-context
+  - 12-code-splitting
+  - 13-typescript
+  - 14-redux-toolkit
+  - 15-testing
+
 - Javascript 201
   - 12 Concepts in JS you must know
   - Website Performance Opitimization
